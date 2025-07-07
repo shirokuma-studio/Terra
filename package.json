@@ -1,0 +1,20 @@
+{
+  "name": "buon-appetito-bot",
+  "main": "dist/index.js",
+  "dependencies": {
+    "@sapphire/cli": "^1.9.3",
+    "@sapphire/decorators": "^6.1.1",
+    "@sapphire/framework": "^5.3.2",
+    "@sapphire/plugin-subcommands": "^7.0.1",
+    "@sapphire/utilities": "^3.18.2",
+    "discord.js": "^14.18.0",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.22.0",
+    "@types/node": "^22.13.10",
+    "eslint": "^9.22.0",
+    "typescript": "^5.8.2",
+    "typescript-eslint": "^8.26.1"
+  }
+}

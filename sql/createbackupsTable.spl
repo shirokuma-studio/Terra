@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS backups (
+    guildId TEXT NOT NULL,
+    backupId TEXT PRIMARY KEY,
+    creatorId TEXT NOT NULL,
+    createdAt INTEGER NOT NULL
+);

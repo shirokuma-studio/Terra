@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS bumpRole (
+    guildId TEXT NOT NULL,
+    roleId  TEXT NOT NULL
+);
